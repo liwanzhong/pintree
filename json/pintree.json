@@ -6,514 +6,10 @@
     "children": [
       {
         "type": "link",
-        "addDate": 1714808952604,
-        "title": "LiblibAI·哩布哩布AI - 中国领先的AI创作平台",
-        "icon": "https://logo.clearbit.com/www.liblib.art",
-        "url": "https://www.liblib.art/"
-      },
-      {
-        "type": "link",
-        "addDate": 1726384089326,
-        "title": "Google",
-        "icon": "https://logo.clearbit.com/www.google.com",
-        "url": "https://www.google.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1714808963788,
-        "title": "Tensor.Art | FREE online image generator and model hosting site!",
-        "icon": "https://logo.clearbit.com/tensor.art",
-        "url": "https://tensor.art/"
-      },
-      {
-        "type": "link",
-        "addDate": 1714815694806,
-        "title": "学术FUN_一站式AI工具、资料、课程资源平台",
-        "icon": "https://logo.clearbit.com/xueshu.fun",
-        "url": "https://xueshu.fun/"
-      },
-      {
-        "type": "link",
-        "addDate": 1715225937888,
-        "title": "Dashboard – Replicate",
-        "icon": "https://logo.clearbit.com/replicate.com",
-        "url": "https://replicate.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1715238931487,
-        "title": "基于省中台医保移动支付医院接入指引",
-        "icon": "https://logo.clearbit.com/docs.qq.com",
-        "url": "https://docs.qq.com/doc/DV1J6ZVB6eHZ3amxK"
-      },
-      {
-        "type": "link",
-        "addDate": 1715837789507,
-        "title": "CodeInWord|在word中优雅展现的代码|代码高亮|word中插入代码|代码格式化",
-        "icon": "https://logo.clearbit.com/www.codeinword.com",
-        "url": "http://www.codeinword.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1715909754188,
-        "title": "通义",
-        "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-        "url": "https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee1BQC3mt&sessionId=24f6c2164b634791938d7ef0cdf8b8da"
-      },
-      {
-        "type": "link",
-        "addDate": 1715909757940,
-        "title": "文心一言",
-        "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-        "url": "https://yiyan.baidu.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1715909781213,
-        "title": "Kimi.ai - 帮你看更大的世界",
-        "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-        "url": "https://kimi.moonshot.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1716186362953,
-        "title": "视频号助手",
-        "icon": "https://logo.clearbit.com/channels.weixin.qq.com",
-        "url": "https://channels.weixin.qq.com/platform"
-      },
-      {
-        "type": "link",
-        "addDate": 1716284507485,
-        "title": "福缘创业网_网上赚钱教程_网络创业项目",
-        "icon": "https://logo.clearbit.com/bbs.fuyuan6.com",
-        "url": "https://bbs.fuyuan6.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1716518448414,
-        "title": "AI产品数据榜 AIwatch.ai - 飞书云文档",
-        "icon": "https://logo.clearbit.com/zw73xyquvv.feishu.cn",
-        "url": "https://zw73xyquvv.feishu.cn/wiki/UH5QwtUWtis1gTk4R6rcnWK2nZc"
-      },
-      {
-        "type": "link",
-        "addDate": 1716619424174,
-        "title": "IT Tools - Handy online tools for developers",
-        "icon": "https://logo.clearbit.com/it-tools.tech",
-        "url": "https://it-tools.tech/"
-      },
-      {
-        "type": "link",
-        "addDate": 1716886999304,
-        "title": "欢迎你，AI 全栈工程师 - 飞书云文档",
-        "icon": "https://logo.clearbit.com/agiclass.feishu.cn",
-        "url": "https://agiclass.feishu.cn/wiki/EztTwL9wniRVXXkW8itcvdyFnhc"
-      },
-      {
-        "type": "link",
-        "addDate": 1717566071884,
-        "title": "秘塔AI搜索",
-        "icon": "https://logo.clearbit.com/metaso.cn",
-        "url": "https://metaso.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1717566142309,
-        "title": "秘塔AI搜索",
-        "icon": "https://logo.clearbit.com/metaso.cn",
-        "url": "https://metaso.cn/search/8486569592662982656?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%9A%84%E5%85%84%E5%BC%9F%E5%AE%9A%E4%B9%89&"
-      },
-      {
-        "type": "link",
-        "addDate": 1718096702597,
-        "title": "ai-OpenAI中文文档",
-        "icon": "https://logo.clearbit.com/openaicto.com",
-        "url": "https://openaicto.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718096722677,
-        "title": "ai-OpenAI英文文档",
-        "icon": "https://logo.clearbit.com/platform.openai.com",
-        "url": "https://platform.openai.com/docs/overview"
-      },
-      {
-        "type": "link",
-        "addDate": 1718096754029,
-        "title": "ai-OpenAItoken计算",
-        "icon": "https://logo.clearbit.com/platform.openai.com",
-        "url": "https://platform.openai.com/tokenizer"
-      },
-      {
-        "type": "link",
-        "addDate": 1718097036765,
-        "title": "ai-DevAGI apikey",
-        "icon": "https://logo.clearbit.com/devcto.com",
-        "url": "https://devcto.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718175231471,
-        "title": "@宝玉xp 的个人主页 - 微博",
-        "icon": "https://logo.clearbit.com/weibo.com",
-        "url": "https://weibo.com/u/1727858283"
-      },
-      {
-        "type": "link",
-        "addDate": 1718180068411,
-        "title": "ai-OpenAI action",
-        "icon": "https://logo.clearbit.com/platform.openai.com",
-        "url": "https://platform.openai.com/docs/actions"
-      },
-      {
-        "type": "link",
-        "addDate": 1718187812399,
-        "title": "ChatGPT",
-        "icon": "https://logo.clearbit.com/chatgpt.com",
-        "url": "https://chatgpt.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718188577047,
-        "title": "ai-实验室",
-        "icon": "https://logo.clearbit.com/learn.agiclass.cn",
-        "url": "https://learn.agiclass.cn/user/u13186793939/lab"
-      },
-      {
-        "type": "link",
-        "addDate": 1718270690081,
-        "title": "Bot Store - Coze",
-        "icon": "https://logo.clearbit.com/www.coze.com",
-        "url": "https://www.coze.com/store/bot"
-      },
-      {
-        "type": "link",
-        "addDate": 1720752131460,
-        "title": "SiliconCloud",
-        "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
-        "url": "https://cloud.siliconflow.cn/models/text/chat"
-      },
-      {
-        "type": "link",
-        "addDate": 1720770677518,
-        "title": "DeepSeek 开放平台",
-        "icon": "https://logo.clearbit.com/platform.deepseek.com",
-        "url": "https://platform.deepseek.com/api_keys"
-      },
-      {
-        "type": "link",
-        "addDate": 1721031704018,
-        "title": "‌‍⁤⁣‌⁣‍⁤﻿​​⁢​⁣‍‌‍⁢⁣⁢⁤⁣‌⁢⁡⁢​⁣​‍⁣‬⁤⁤⁤⁡‌​‌⁣‍​‌⁢‌⁤⁣⁢⁤​通往 AGI 之路 - 飞书云文档",
-        "icon": "https://logo.clearbit.com/waytoagi.feishu.cn",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e"
-      },
-      {
-        "type": "link",
-        "addDate": 1721293919507,
-        "title": "我的大模型课",
-        "icon": "https://logo.clearbit.com/ishell.online",
-        "url": "https://ishell.online/blog/llm_course/"
-      },
-      {
-        "type": "link",
-        "addDate": 1721293927404,
-        "title": "智能合约入门",
-        "icon": "https://logo.clearbit.com/ishell.online",
-        "url": "https://ishell.online/blog/smart-contract/"
-      },
-      {
-        "type": "link",
-        "addDate": 1721294040059,
-        "title": "提示词图书馆 - 飞书云文档",
-        "icon": "https://logo.clearbit.com/vxc3hj17dym.feishu.cn",
-        "url": "https://vxc3hj17dym.feishu.cn/wiki/VDb1wMKDNiNj0mkJn6VcFgRenVc"
-      },
-      {
-        "type": "link",
-        "addDate": 1721791679734,
-        "title": "wgwang/awesome-LLMs-In-China: 中国大模型",
-        "icon": "https://logo.clearbit.com/github.com",
-        "url": "https://github.com/wgwang/awesome-LLMs-In-China?tab=readme-ov-file"
-      },
-      {
-        "type": "link",
-        "addDate": 1721891320372,
-        "title": "HF-Mirror",
-        "icon": "https://logo.clearbit.com/hf-mirror.com",
-        "url": "https://hf-mirror.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1722238671195,
-        "title": "Metabase",
-        "icon": "https://logo.clearbit.com/8.134.123.94",
-        "url": "http://8.134.123.94:22026/"
-      },
-      {
-        "type": "link",
-        "addDate": 1722238678267,
-        "title": "pgAdmin 4",
-        "icon": "https://logo.clearbit.com/8.134.123.94",
-        "url": "http://8.134.123.94:22025/browser/#"
-      },
-      {
-        "type": "link",
-        "addDate": 1722393464214,
-        "title": "首页-OpenDataLab",
-        "icon": "https://logo.clearbit.com/opendatalab.org.cn",
-        "url": "https://opendatalab.org.cn/home"
-      },
-      {
-        "type": "link",
-        "addDate": 1722580568777,
-        "title": "AIGC Weekly",
-        "icon": "https://logo.clearbit.com/quail.ink",
-        "url": "https://quail.ink/op7418"
-      },
-      {
-        "type": "link",
-        "addDate": 1722581346127,
-        "title": "大语言模型微调之道1——介绍_哔哩哔哩_bilibili",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV1Lu4y1X7DZ/?vd_source=453a704499f1e8f976d898c6631e49c2"
-      },
-      {
-        "type": "link",
-        "addDate": 1722581384711,
-        "title": "宝玉xp的个人空间-宝玉xp个人主页-哔哩哔哩视频",
-        "icon": "https://logo.clearbit.com/space.bilibili.com",
-        "url": "https://space.bilibili.com/589397373"
-      },
-      {
-        "type": "link",
-        "addDate": 1722581765200,
-        "title": "DeepLearning.AI - Learning Platform",
-        "icon": "https://logo.clearbit.com/learn.deeplearning.ai",
-        "url": "https://learn.deeplearning.ai/"
-      },
-      {
-        "type": "link",
-        "addDate": 1722583389169,
-        "title": "【多模态+大模型+知识图谱】2024完整版：这绝对是B站最全的教程，论文创新点终于解决了！——人工智能/深度学习/aigc/计算机视觉_哔哩哔哩_bilibili",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV1n4421D7dJ/?spm_id_from=333.788.recommend_more_video.0&vd_source=453a704499f1e8f976d898c6631e49c2"
-      },
-      {
-        "type": "link",
-        "addDate": 1722583436145,
-        "title": "1.1.1Transformer背景介绍_哔哩哔哩_bilibili",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV1Hm421g7u9?p=1&vd_source=453a704499f1e8f976d898c6631e49c2"
-      },
-      {
-        "type": "link",
-        "addDate": 1722584041698,
-        "title": "强推！这绝对是目前B站最好的【LLM医疗大模型】教程，我只花了1天就学会了LIama2医疗应用和模型申请与本地部署，通俗易懂 全程干货！_哔哩哔哩_bilibili",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV15p4y1F72E/?spm_id_from=333.999.0.0&vd_source=453a704499f1e8f976d898c6631e49c2"
-      },
-      {
-        "type": "link",
-        "addDate": 1723707970056,
-        "title": "2024最新AI大模型训练营_哔哩哔哩_bilibili",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV1f4421U7Dp/?spm_id_from=333.788.recommend_more_video.1&vd_source=453a704499f1e8f976d898c6631e49c2"
-      },
-      {
-        "type": "link",
-        "addDate": 1723708029408,
-        "title": "我翻遍全B站，也没有看到能把知识图谱讲得如此清晰的教程（AI/计算机技术/深度学习/知识图谱）_哔哩哔哩_bilibili",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV1UB4y1z7Ku/?spm_id_from=333.788.recommend_more_video.0&vd_source=453a704499f1e8f976d898c6631e49c2"
-      },
-      {
-        "type": "link",
-        "addDate": 1723708562272,
-        "title": "B站强推！这可能是唯一能将知识图谱讲明白的教程了，不愧是清华教授，半天时间将入门原理到项目实战全部教完！还学不会速来打我！人工智能|神经网络|机器学习_哔哩哔哩_bilibili",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV1vc411p7FE/?spm_id_from=333.788.recommend_more_video.1&vd_source=453a704499f1e8f976d898c6631e49c2"
-      },
-      {
-        "type": "link",
-        "addDate": 1723773371914,
-        "title": "【2024最新】提示词工程教程！B站强推！建议所有想学AI大模型（LLM）的同学，死磕这条视频，2024年字节大佬花了一周时间整理的提示词工程保姆级教程！_哔哩哔哩_bilibili",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV1sT421a7xC/?spm_id_from=333.788.recommend_more_video.2&vd_source=453a704499f1e8f976d898c6631e49c2"
-      },
-      {
-        "type": "link",
-        "addDate": 1723773378849,
-        "title": "强烈推荐！台大李宏毅自注意力机制和Transformer详解！_哔哩哔哩_bilibili",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV1v3411r78R/?spm_id_from=333.788.recommend_more_video.1&vd_source=453a704499f1e8f976d898c6631e49c2"
-      },
-      {
-        "type": "link",
-        "addDate": 1723804426315,
-        "title": "Playground - GroqCloud",
-        "icon": "https://logo.clearbit.com/console.groq.com",
-        "url": "https://console.groq.com/playground"
-      },
-      {
-        "type": "link",
-        "addDate": 1723866752271,
-        "title": "各大模型分析",
-        "icon": "https://logo.clearbit.com/artificialanalysis.ai",
-        "url": "https://artificialanalysis.ai/"
-      },
-      {
-        "type": "link",
-        "addDate": 1723875864855,
-        "title": "大预言模型对话免费使用以及效果对比",
-        "icon": "https://logo.clearbit.com/chat.lmsys.org",
-        "url": "https://chat.lmsys.org/"
-      },
-      {
-        "type": "link",
-        "addDate": 1724656423046,
-        "title": "Models",
-        "icon": "https://logo.clearbit.com/siliconflow.cn",
-        "url": "https://siliconflow.cn/zh-cn/models"
-      },
-      {
-        "type": "link",
-        "addDate": 1724753581382,
-        "title": "独立开发前线 - 独立开发者的成长指南",
-        "icon": "https://logo.clearbit.com/www.91wink.com",
-        "url": "https://www.91wink.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1724812246448,
-        "title": "AI工具导航-发现超酷的互联网产品神器 - AI神器集",
-        "icon": "https://logo.clearbit.com/hao.logosc.cn",
-        "url": "https://hao.logosc.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1724899061969,
-        "title": "最好的AI导航站和AI工具列表 - Toolify",
-        "icon": "https://logo.clearbit.com/www.toolify.ai",
-        "url": "https://www.toolify.ai/zh/"
-      },
-      {
-        "type": "link",
-        "addDate": 1724926939161,
-        "title": "Gradio",
-        "icon": "https://logo.clearbit.com/www.gradio.app",
-        "url": "https://www.gradio.app/"
-      },
-      {
-        "type": "link",
-        "addDate": 1724926946911,
-        "title": "v0 by Vercel",
-        "icon": "https://logo.clearbit.com/v0.dev",
-        "url": "https://v0.dev/chat"
-      },
-      {
-        "type": "link",
-        "addDate": 1724926960615,
-        "title": "最近 - Motiff 妙多",
-        "icon": "https://logo.clearbit.com/motiff.cn",
-        "url": "https://motiff.cn/files/recent"
-      },
-      {
-        "type": "link",
-        "addDate": 1725073535283,
-        "title": "Product Hunt – The best new products in tech.",
-        "icon": "https://logo.clearbit.com/www.producthunt.com",
-        "url": "https://www.producthunt.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1725074159379,
-        "title": "V2EX",
-        "icon": "https://logo.clearbit.com/www.v2ex.com",
-        "url": "https://www.v2ex.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1725074173348,
-        "title": "w2solo - 独立开发者社区",
-        "icon": "https://logo.clearbit.com/www.w2solo.com",
-        "url": "https://www.w2solo.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1725242374577,
-        "title": "附加组件 - AnkiWeb",
-        "icon": "https://logo.clearbit.com/ankiweb.net",
-        "url": "https://ankiweb.net/shared/addons?search=&sort=version"
-      },
-      {
-        "type": "link",
-        "addDate": 1725242378376,
-        "title": "插件 - Anki 手册",
-        "icon": "https://logo.clearbit.com/open-spaced-repetition.github.io",
-        "url": "https://open-spaced-repetition.github.io/anki-manual-zh-CN/addons.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1726223396403,
-        "title": "FlutterFlow",
-        "icon": "https://logo.clearbit.com/app.flutterflow.io",
-        "url": "https://app.flutterflow.io/"
-      },
-      {
-        "type": "link",
-        "addDate": 1726223715418,
-        "title": "Get Started Flutter Design with Getwidget Ui Kit Library",
-        "icon": "https://logo.clearbit.com/docs.getwidget.dev",
-        "url": "https://docs.getwidget.dev/"
-      },
-      {
-        "type": "link",
-        "addDate": 1726295335284,
-        "title": "flutter视频教程",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/video/BV1RZ421p7BL?p=153&spm_id_from=pageDriver&vd_source=453a704499f1e8f976d898c6631e49c2"
-      },
-      {
-        "type": "link",
-        "addDate": 1726298221062,
-        "title": "flutter开发",
-        "icon": "https://logo.clearbit.com/space.bilibili.com",
-        "url": "https://space.bilibili.com/404904528"
-      },
-      {
-        "type": "link",
-        "addDate": 1726304350196,
-        "title": "创建新的 Flet 应用程序 | flet中文网·flet最全教程·Qt最强平替",
-        "icon": "https://logo.clearbit.com/flet.qiannianlu.com",
-        "url": "https://flet.qiannianlu.com/docs/getting-started/create-flet-app"
-      },
-      {
-        "type": "link",
-        "addDate": 1727163676182,
-        "title": "",
-        "icon": "https://logo.clearbit.com/www.uviewui.com",
-        "url": "https://www.uviewui.com/components/icon.html"
-      },
-      {
-        "type": "link",
-        "addDate": 1727231300343,
-        "title": "CursorList - .cursorrule files and more for Cursor AI",
-        "icon": "https://logo.clearbit.com/cursorlist.com",
-        "url": "https://cursorlist.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1728441758553,
-        "title": "ChatPPT_AI一键对话生成PPT_智能排版美化-必优科技智能PPT",
-        "icon": "https://logo.clearbit.com/chat-ppt.com",
-        "url": "https://chat-ppt.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1728635559279,
-        "title": "Vertex AI – My First Project – Google Cloud console",
-        "icon": "https://logo.clearbit.com/console.cloud.google.com",
-        "url": "https://console.cloud.google.com/vertex-ai/studio/chat?project=oceanic-granite-437807-a8"
+        "addDate": 1729653696556,
+        "title": "flomo笔记",
+        "icon": "https://logo.clearbit.com/v.flomoapp.com",
+        "url": "https://v.flomoapp.com/mine"
       },
       {
         "type": "link",
@@ -521,6 +17,468 @@
         "title": "Me.bot",
         "icon": "https://logo.clearbit.com/app.me.bot",
         "url": "https://app.me.bot/"
+      },
+      {
+        "type": "folder",
+        "addDate": 1729652731803,
+        "title": "AI工具",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1714808952604,
+            "title": "LiblibAI·哩布哩布AI - 中国领先的AI创作平台",
+            "icon": "https://logo.clearbit.com/www.liblib.art",
+            "url": "https://www.liblib.art/"
+          },
+          {
+            "type": "link",
+            "addDate": 1715909754188,
+            "title": "通义",
+            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+            "url": "https://tongyi.aliyun.com/qianwen/?spm=5176.28326591.0.0.40f76ee1BQC3mt&sessionId=24f6c2164b634791938d7ef0cdf8b8da"
+          },
+          {
+            "type": "link",
+            "addDate": 1715909757940,
+            "title": "文心一言",
+            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+            "url": "https://yiyan.baidu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1715909781213,
+            "title": "Kimi.ai - 帮你看更大的世界",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1717566071884,
+            "title": "秘塔AI搜索",
+            "icon": "https://logo.clearbit.com/metaso.cn",
+            "url": "https://metaso.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718187812399,
+            "title": "ChatGPT",
+            "icon": "https://logo.clearbit.com/chatgpt.com",
+            "url": "https://chatgpt.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718270690081,
+            "title": "Bot Store - Coze",
+            "icon": "https://logo.clearbit.com/www.coze.com",
+            "url": "https://www.coze.com/store/bot"
+          },
+          {
+            "type": "link",
+            "addDate": 1728635559279,
+            "title": "Vertex AI – My First Project – Google Cloud console",
+            "icon": "https://logo.clearbit.com/console.cloud.google.com",
+            "url": "https://console.cloud.google.com/vertex-ai/studio/chat?project=oceanic-granite-437807-a8"
+          },
+          {
+            "type": "link",
+            "addDate": 1728441758553,
+            "title": "ChatPPT_AI一键对话生成PPT_智能排版美化-必优科技智能PPT",
+            "icon": "https://logo.clearbit.com/chat-ppt.com",
+            "url": "https://chat-ppt.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724926946911,
+            "title": "v0 by Vercel",
+            "icon": "https://logo.clearbit.com/v0.dev",
+            "url": "https://v0.dev/chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1724926960615,
+            "title": "最近 - Motiff 妙多",
+            "icon": "https://logo.clearbit.com/motiff.cn",
+            "url": "https://motiff.cn/files/recent"
+          },
+          {
+            "type": "link",
+            "addDate": 1724899061969,
+            "title": "最好的AI导航站和AI工具列表 - Toolify",
+            "icon": "https://logo.clearbit.com/www.toolify.ai",
+            "url": "https://www.toolify.ai/zh/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729652735125,
+        "title": "AI开发",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1727163676182,
+            "title": "",
+            "icon": "https://logo.clearbit.com/www.uviewui.com",
+            "url": "https://www.uviewui.com/components/icon.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1714808963788,
+            "title": "Tensor.Art | FREE online image generator and model hosting site!",
+            "icon": "https://logo.clearbit.com/tensor.art",
+            "url": "https://tensor.art/"
+          },
+          {
+            "type": "link",
+            "addDate": 1714815694806,
+            "title": "学术FUN_一站式AI工具、资料、课程资源平台",
+            "icon": "https://logo.clearbit.com/xueshu.fun",
+            "url": "https://xueshu.fun/"
+          },
+          {
+            "type": "link",
+            "addDate": 1715225937888,
+            "title": "Dashboard – Replicate",
+            "icon": "https://logo.clearbit.com/replicate.com",
+            "url": "https://replicate.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718096702597,
+            "title": "ai-OpenAI中文文档",
+            "icon": "https://logo.clearbit.com/openaicto.com",
+            "url": "https://openaicto.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718096722677,
+            "title": "ai-OpenAI英文文档",
+            "icon": "https://logo.clearbit.com/platform.openai.com",
+            "url": "https://platform.openai.com/docs/overview"
+          },
+          {
+            "type": "link",
+            "addDate": 1718096754029,
+            "title": "ai-OpenAItoken计算",
+            "icon": "https://logo.clearbit.com/platform.openai.com",
+            "url": "https://platform.openai.com/tokenizer"
+          },
+          {
+            "type": "link",
+            "addDate": 1718097036765,
+            "title": "ai-DevAGI apikey",
+            "icon": "https://logo.clearbit.com/devcto.com",
+            "url": "https://devcto.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718180068411,
+            "title": "ai-OpenAI action",
+            "icon": "https://logo.clearbit.com/platform.openai.com",
+            "url": "https://platform.openai.com/docs/actions"
+          },
+          {
+            "type": "link",
+            "addDate": 1720752131460,
+            "title": "SiliconCloud",
+            "icon": "https://logo.clearbit.com/cloud.siliconflow.cn",
+            "url": "https://cloud.siliconflow.cn/models/text/chat"
+          },
+          {
+            "type": "link",
+            "addDate": 1720770677518,
+            "title": "DeepSeek 开放平台",
+            "icon": "https://logo.clearbit.com/platform.deepseek.com",
+            "url": "https://platform.deepseek.com/api_keys"
+          },
+          {
+            "type": "link",
+            "addDate": 1721791679734,
+            "title": "wgwang/awesome-LLMs-In-China: 中国大模型",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/wgwang/awesome-LLMs-In-China?tab=readme-ov-file"
+          },
+          {
+            "type": "link",
+            "addDate": 1721891320372,
+            "title": "HF-Mirror",
+            "icon": "https://logo.clearbit.com/hf-mirror.com",
+            "url": "https://hf-mirror.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723804426315,
+            "title": "Playground - GroqCloud",
+            "icon": "https://logo.clearbit.com/console.groq.com",
+            "url": "https://console.groq.com/playground"
+          },
+          {
+            "type": "link",
+            "addDate": 1723866752271,
+            "title": "各大模型分析",
+            "icon": "https://logo.clearbit.com/artificialanalysis.ai",
+            "url": "https://artificialanalysis.ai/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723875864855,
+            "title": "大预言模型对话免费使用以及效果对比",
+            "icon": "https://logo.clearbit.com/chat.lmsys.org",
+            "url": "https://chat.lmsys.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724656423046,
+            "title": "Models",
+            "icon": "https://logo.clearbit.com/siliconflow.cn",
+            "url": "https://siliconflow.cn/zh-cn/models"
+          },
+          {
+            "type": "link",
+            "addDate": 1727231300343,
+            "title": "CursorList - .cursorrule files and more for Cursor AI",
+            "icon": "https://logo.clearbit.com/cursorlist.com",
+            "url": "https://cursorlist.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724926939161,
+            "title": "Gradio",
+            "icon": "https://logo.clearbit.com/www.gradio.app",
+            "url": "https://www.gradio.app/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729652926524,
+        "title": "其他工具",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1715837789507,
+            "title": "CodeInWord|在word中优雅展现的代码|代码高亮|word中插入代码|代码格式化",
+            "icon": "https://logo.clearbit.com/www.codeinword.com",
+            "url": "http://www.codeinword.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729652953916,
+        "title": "常用入口",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1716619424174,
+            "title": "IT Tools - Handy online tools for developers",
+            "icon": "https://logo.clearbit.com/it-tools.tech",
+            "url": "https://it-tools.tech/"
+          },
+          {
+            "type": "link",
+            "addDate": 1716284507485,
+            "title": "福缘创业网_网上赚钱教程_网络创业项目",
+            "icon": "https://logo.clearbit.com/bbs.fuyuan6.com",
+            "url": "https://bbs.fuyuan6.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1716186362953,
+            "title": "视频号助手",
+            "icon": "https://logo.clearbit.com/channels.weixin.qq.com",
+            "url": "https://channels.weixin.qq.com/platform"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729653121613,
+        "title": "AI学习",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1721293919507,
+            "title": "我的大模型课",
+            "icon": "https://logo.clearbit.com/ishell.online",
+            "url": "https://ishell.online/blog/llm_course/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721293927404,
+            "title": "智能合约入门",
+            "icon": "https://logo.clearbit.com/ishell.online",
+            "url": "https://ishell.online/blog/smart-contract/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721294040059,
+            "title": "提示词图书馆 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/vxc3hj17dym.feishu.cn",
+            "url": "https://vxc3hj17dym.feishu.cn/wiki/VDb1wMKDNiNj0mkJn6VcFgRenVc"
+          },
+          {
+            "type": "link",
+            "addDate": 1721031704018,
+            "title": "‌‍⁤⁣‌⁣‍⁤﻿​​⁢​⁣‍‌‍⁢⁣⁢⁤⁣‌⁢⁡⁢​⁣​‍⁣‬⁤⁤⁤⁡‌​‌⁣‍​‌⁢‌⁤⁣⁢⁤​通往 AGI 之路 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/waytoagi.feishu.cn",
+            "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e"
+          },
+          {
+            "type": "link",
+            "addDate": 1718188577047,
+            "title": "ai-实验室",
+            "icon": "https://logo.clearbit.com/learn.agiclass.cn",
+            "url": "https://learn.agiclass.cn/user/u13186793939/lab"
+          },
+          {
+            "type": "link",
+            "addDate": 1718175231471,
+            "title": "@宝玉xp 的个人主页 - 微博",
+            "icon": "https://logo.clearbit.com/weibo.com",
+            "url": "https://weibo.com/u/1727858283"
+          },
+          {
+            "type": "link",
+            "addDate": 1716886999304,
+            "title": "欢迎你，AI 全栈工程师 - 飞书云文档",
+            "icon": "https://logo.clearbit.com/agiclass.feishu.cn",
+            "url": "https://agiclass.feishu.cn/wiki/EztTwL9wniRVXXkW8itcvdyFnhc"
+          },
+          {
+            "type": "link",
+            "addDate": 1716518448414,
+            "title": "AI产品数据榜 AIwatch.ai - 飞书云文档",
+            "icon": "https://logo.clearbit.com/zw73xyquvv.feishu.cn",
+            "url": "https://zw73xyquvv.feishu.cn/wiki/UH5QwtUWtis1gTk4R6rcnWK2nZc"
+          },
+          {
+            "type": "link",
+            "addDate": 1722580568777,
+            "title": "AIGC Weekly",
+            "icon": "https://logo.clearbit.com/quail.ink",
+            "url": "https://quail.ink/op7418"
+          },
+          {
+            "type": "link",
+            "addDate": 1722581384711,
+            "title": "宝玉xp的个人空间-宝玉xp个人主页-哔哩哔哩视频",
+            "icon": "https://logo.clearbit.com/space.bilibili.com",
+            "url": "https://space.bilibili.com/589397373"
+          },
+          {
+            "type": "link",
+            "addDate": 1722581765200,
+            "title": "DeepLearning.AI - Learning Platform",
+            "icon": "https://logo.clearbit.com/learn.deeplearning.ai",
+            "url": "https://learn.deeplearning.ai/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729653256556,
+        "title": "flutter",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1726223396403,
+            "title": "FlutterFlow",
+            "icon": "https://logo.clearbit.com/app.flutterflow.io",
+            "url": "https://app.flutterflow.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726223715418,
+            "title": "Get Started Flutter Design with Getwidget Ui Kit Library",
+            "icon": "https://logo.clearbit.com/docs.getwidget.dev",
+            "url": "https://docs.getwidget.dev/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726295335284,
+            "title": "flutter视频教程",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/video/BV1RZ421p7BL?p=153&spm_id_from=pageDriver&vd_source=453a704499f1e8f976d898c6631e49c2"
+          },
+          {
+            "type": "link",
+            "addDate": 1726298221062,
+            "title": "flutter开发",
+            "icon": "https://logo.clearbit.com/space.bilibili.com",
+            "url": "https://space.bilibili.com/404904528"
+          },
+          {
+            "type": "link",
+            "addDate": 1726304350196,
+            "title": "创建新的 Flet 应用程序 | flet中文网·flet最全教程·Qt最强平替",
+            "icon": "https://logo.clearbit.com/flet.qiannianlu.com",
+            "url": "https://flet.qiannianlu.com/docs/getting-started/create-flet-app"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729653290500,
+        "title": "独立开发者",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1724753581382,
+            "title": "独立开发前线 - 独立开发者的成长指南",
+            "icon": "https://logo.clearbit.com/www.91wink.com",
+            "url": "https://www.91wink.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724812246448,
+            "title": "AI工具导航-发现超酷的互联网产品神器 - AI神器集",
+            "icon": "https://logo.clearbit.com/hao.logosc.cn",
+            "url": "https://hao.logosc.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725073535283,
+            "title": "Product Hunt – The best new products in tech.",
+            "icon": "https://logo.clearbit.com/www.producthunt.com",
+            "url": "https://www.producthunt.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725074159379,
+            "title": "V2EX",
+            "icon": "https://logo.clearbit.com/www.v2ex.com",
+            "url": "https://www.v2ex.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725074173348,
+            "title": "w2solo - 独立开发者社区",
+            "icon": "https://logo.clearbit.com/www.w2solo.com",
+            "url": "https://www.w2solo.com/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729653500564,
+        "title": "anki",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1725242378376,
+            "title": "插件 - Anki 手册",
+            "icon": "https://logo.clearbit.com/open-spaced-repetition.github.io",
+            "url": "https://open-spaced-repetition.github.io/anki-manual-zh-CN/addons.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1725242374577,
+            "title": "附加组件 - AnkiWeb",
+            "icon": "https://logo.clearbit.com/ankiweb.net",
+            "url": "https://ankiweb.net/shared/addons?search=&sort=version"
+          }
+        ]
       }
     ]
   }
